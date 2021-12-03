@@ -1,0 +1,11 @@
+by.bsuir.third.client.clientInformation
+by.bsuir.third.client.main
+by.bsuir.third.client.service
+by.bsuir.third.server.dao
+by.bsuir.third.server.dao.impl
+by.bsuir.third.server.entity
+by.bsuir.third.server.entity.criteria
+by.bsuir.third.server.main
+by.bsuir.third.server.serverInformation
+by.bsuir.third.server.service
+by.bsuir.third.server.service.impl

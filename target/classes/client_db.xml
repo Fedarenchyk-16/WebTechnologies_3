@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><clients>
+	<Client>
+		<name>Abobus</name>
+		<password>9090</password>
+		<allowance>ADD</allowance>
+	</Client>
+	<Client>
+		<name>Qwerty</name>
+		<password>2882</password>
+		<allowance>EDIT</allowance>
+	</Client>
+	<Client>
+		<name>Alesya</name>
+		<password>1111</password>
+		<allowance>EDIT</allowance>
+	</Client>
+
+	<Client>
+		<name>NIKITOSIK</name>
+		<password>1234</password>
+		<allowance>ADD</allowance>
+	</Client>
+</clients>

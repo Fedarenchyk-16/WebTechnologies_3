@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><students>
+	<Student>
+		<name>Mikhal</name>
+		<averageScore>8</averageScore>
+	</Student>
+	<Student>
+		<name>Den</name>
+		<averageScore>4</averageScore>
+	</Student>
+	<Student>
+		<name>Bob</name>
+		<averageScore>1</averageScore>
+	</Student>
+	<Student>
+		<name>Nikitosik</name>
+		<averageScore>1</averageScore>
+	</Student>
+</students>
